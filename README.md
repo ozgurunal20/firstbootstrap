@@ -4,4 +4,4 @@
 * Ürünlerimiz
 * Hakkımızda
 
-![ÇalışmaGörseli](/readmep.jpg) 
+! [ÇalışmaGörseli](/readmep.jpg) 
